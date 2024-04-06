@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "buildingName": "Tower A",
+      "buildingId": 100,
+      "requestedTemperature": 25,
+      "rooms": [
+        {
+          "roomId": 101,
+          "occupant": "Yusufs",
+          "currentTemperature": "28",
+          "ifHeating": false,
+          "ifCooling": true
+        },
+        {
+          "roomId": 102,
+          "occupant": "Ketan",
+          "currentTemperature": 22,
+          "ifHeating": true,
+          "ifCooling": false
+        },
+        {
+          "roomId": 103,
+          "occupant": "Kartik",
+          "currentTemperature": 20,
+          "ifHeating": true,
+          "ifCooling": false
+        },
+        {
+          "roomId": 104,
+          "occupant": "Rahul",
+          "currentTemperature": 26,
+          "ifHeating": false,
+          "ifCooling": true
+        },
+        {
+          "roomId": 105,
+          "occupant": "yusuf2",
+          "currentTemperature": 12,
+          "ifCooling": false,
+          "ifHeating": true
+        }
+      ]
+    }
+  ]
+}
